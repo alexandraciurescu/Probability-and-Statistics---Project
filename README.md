@@ -1,6 +1,6 @@
-*Probability and Statistics Project in R*
+**Probability and Statistics Project in R**
 
-1.
+**1.**
 Fie două variabile aleatoare discrete X şi Y cu repartiţiile de forma de bază.
 
 a)
@@ -41,7 +41,7 @@ necorelate
 i)
 Adăugând încă o v.a. Z, propuneți o manieră vizuală de reprezentare a repartiției comune pentru v.a. X, Y și Z. Care ar fi interpretarea repartițiilor marginale în cazul acestei v.a. tridimensionale și cum ar putea fi obținute?
 
-2.
+**2.**
 Folosind pachetele R shiny (https://shiny.rstudio.com/), animate(https://cran.r-project.org/web/packages/animate/vignettes/introduction.html) și orice alte surse de documentare considerați potrivite construiți un proiect R care să permită lucru cu variabile aleatoare continue bidimensionale. Opțiunile din proiect trebuie să implementeze următoarele funcționalități:
 
 a)
